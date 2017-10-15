@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "UTMConversion"
-  s.version      = "1.0.1"
+  s.version      = "1.2.0"
   s.summary      = "Convert between latitude/longitude and the UTM coordinate system."
   s.description  = <<-DESC
 
